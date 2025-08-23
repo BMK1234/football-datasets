@@ -291,8 +291,8 @@ I’m always excited to collaborate on innovative football data projects. If you
 ### 📬 **Contact Me**  
 - **GitHub**: [@salimt](https://github.com/salimt)  
 - **LinkedIn**: [salimt](https://www.linkedin.com/in/salim-tasan)  
-- **Issues**: Feel free to use GitHub Issues if you’ve got dataset-specific questions.  
-
+- **Issues**: Feel free to use GitHub Issues if you’ve got dataset-specific questions.
+  
 ---
 
 ## 🌟 **Star the Repo**  
