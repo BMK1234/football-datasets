@@ -26,7 +26,7 @@
 
 # Example Data
 
-[You can explore the example dataset used in this project here](https://github.com/salimt/football-datasets/blob/main/README_data.md)
+[Check out a sample of the dataset to get started.](https://github.com/salimt/football-datasets/blob/main/README_data.md)
 
 
 ### **Player Data Categories** (7 categories)
