@@ -28,7 +28,6 @@
 
 [Check out a sample of the dataset to get started.](https://github.com/salimt/football-datasets/blob/main/README_data.md)
 
-
 ### **Player Data Categories** (7 categories)
 ```
 datalake/transfermarkt/raw/
