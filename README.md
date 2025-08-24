@@ -313,7 +313,7 @@ Contributions to the Nodeball Football Datalake are most welcome! If you want to
 3. **Analyze the datalake structure** in `datalake/` directory
 4. **Start modifying data processing** or creating new data extraction scripts
 5. **If it's all looking good, create a pull request** with your changes 🚀
-
+   
 ### 📋 **Contribution Areas**
 
 - **🐛 Data Quality**: Report inconsistencies or missing data
