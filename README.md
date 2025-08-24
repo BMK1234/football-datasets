@@ -8,7 +8,6 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4)](https://github.com/sponsors/salimt)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Football%20Datasets-blue?logo=kaggle)](https://www.kaggle.com/datasets/xfkzujqjvx97n/football-datasets/)
 
-
 > **Complete football/soccer datalake with 41000+ players from Transfermarkt. Includes player profiles, performance statistics, market values, transfer histories, injury records, national team data, and teammate relationships.**
 
 ---
